@@ -89,7 +89,7 @@ _All the above are visualized with Excel charts (bar, line, column) and concise 
 We began with raw orders, product, and customer data. Initial data validation ensured integrity and consistency. Using Excel’s robust pivoting and charting tools, we mapped out total and monthly revenue, identified bestsellers and high-performing categories, and discovered top cities and customer segments. Occasion trends highlighted the business value of festival alignment, while delivery analysis surfaced operational benchmarks. The process yielded actionable insights for gift store sales and supply chain improvements, all directly in Excel.
 
 ---
-How to use:
-•	Copy-paste this code as your README.md on GitHub.
-•	Add or replace sections as needed—for example, if you add screenshots, use `![Chart](chart-screenshot want a section on “Limitations” or a FAQ, you can add those as well.
 
+## Contact
+-   Your Name - ahmedm
+-   Your Email - mrahmedm09@gmail.com
